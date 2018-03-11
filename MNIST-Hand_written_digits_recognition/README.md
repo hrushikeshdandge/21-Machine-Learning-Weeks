@@ -1,4 +1,4 @@
-# DeepLearningModels
+# Neural Network with 2 Hidden Layers
 
 <p>Before running this code, make sure you install tensorflow and sklearn<p>
 
@@ -19,18 +19,18 @@ output (n_classes): 100
 
 
 Neural Network with 2 hidden layers taking input as handwritten dataset(15K*64) and mapping it to 10 classes
-
-Loss Function : Cross Entropy
-Optimizer of Loss Function : Adam Optimizer
-
-Neural Network Structure
 <ul>
+  Loss Function : Cross Entropy
+  Optimizer of Loss Function : Adam Optimizer
+  Neural Network Structure
+   <ul>
 
     input: 64 ( number of features )
     n_hidden_1 : 40
     n_hidden_2 : 20
     output: 10 (number of classes)
 
+   </ul>
 </ul>
 
 <h2>Weights and Biases</h2>
