@@ -2,7 +2,7 @@
 
 <p>Before running this code, make sure you install tensorflow and sklearn<p>
 
-<u href="https://www.tensorflow.org/install/">Install Tensor Flow</u>
+<a href="https://www.tensorflow.org/install/">Install Tensor Flow</a>
 
 
 <p><b>Note</b></p>
