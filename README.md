@@ -1,2 +1,2 @@
 # DeepLearningModels
-MachineLearning Models 
+Every week new machine learning model challenge
