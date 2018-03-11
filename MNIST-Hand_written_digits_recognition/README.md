@@ -35,10 +35,10 @@ Neural Network with 2 hidden layers taking input as handwritten dataset(15K*64) 
    
 </ul>
 
-<h2>Weights and Biases</h2>
-<img src="Images/histogram.png"/>
+<h4>Weights and Biases</h4>
+<img width=300 height=300 src="Images/histogram.png"/>
 
-<h2>Accuracy and Cost<h2>
+<h4>Accuracy and Cost</h4>
 <img src="Images/scaler.png"/>
 
 
