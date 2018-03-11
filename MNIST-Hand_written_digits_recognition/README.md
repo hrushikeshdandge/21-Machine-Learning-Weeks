@@ -40,5 +40,6 @@ Neural Network Structure
 <img src="Images/scaler.png"/>
 
 
-<p>To visualize flow, install tensorboard and run this script,
-	then tensorboard --logdir=tmp/mnist</p>
+To visualize flow, install tensorboard and run this script,then 
+
+run '''tensorboard --logdir=tmp/mnist'''
