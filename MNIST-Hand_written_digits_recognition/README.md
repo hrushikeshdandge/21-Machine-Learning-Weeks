@@ -26,10 +26,10 @@ Optimizer of Loss Function : Adam Optimizer
 Neural Network Structure
 <ul>
 
-	input: 64 ( number of features )
-	n_hidden_1 : 40
-        n_hidden_2 : 20
-        output: 10 (number of classes)
+    input: 64 ( number of features )
+    n_hidden_1 : 40
+    n_hidden_2 : 20
+    output: 10 (number of classes)
 
 </ul>
 
