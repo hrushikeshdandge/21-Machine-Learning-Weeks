@@ -1,4 +1,4 @@
-#Handwritten digits recognition using Neural Network with 2 Hidden Layers
+<h1>Handwritten digits recognition using Neural Network with 2 Hidden Layers</h1>
 
 <p>Before running this code, make sure you install tensorflow and sklearn<p>
 
