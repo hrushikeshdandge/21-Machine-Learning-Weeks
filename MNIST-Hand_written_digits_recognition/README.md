@@ -35,7 +35,9 @@ Neural Network with 2 hidden layers taking input as handwritten dataset(15K*64) 
    
 </ul>
 <h4>Video Explanantion</h4>
+<img src ="http://globalclinic.su/wp-content/uploads/2018/02/youtube.png"/>
 
+<h4>Neural Network</h4>
 [![Alt text](https://github.com/saitejdandge/21-Machine-Learning-Weeks/blob/master/MNIST-Hand_written_digits_recognition/Images/thumbnail.png)](https://www.youtube.com/watch?v=cFW1L3pH1Hk)
 
 
