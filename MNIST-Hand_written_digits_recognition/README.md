@@ -35,12 +35,17 @@ Neural Network with 2 hidden layers taking input as handwritten dataset(15K*64) 
    
 </ul>
 
+
+
+
+ <h4 href="https://www.youtube.com/watch?v=cFW1L3pH1Hk" >Video Explanantion</h4>
+
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+
+
 <h4>Neural Network</h4>
 <img src ="https://github.com/saitejdandge/21-Machine-Learning-Weeks/blob/master/MNIST-Hand_written_digits_recognition/Images/thumbnail.png"/>
 
-
-<h4>Video Explanantion</h4>
-[![Alt text](http://globalclinic.su/wp-content/uploads/2018/02/youtube.png)](https://www.youtube.com/watch?v=cFW1L3pH1Hk)
 
 
 <h4>Weights and Biases</h4>
