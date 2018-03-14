@@ -35,7 +35,8 @@ Neural Network with 2 hidden layers taking input as handwritten dataset(15K*64) 
    
 </ul>
 <h4>Video Explanantion</h4>
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cFW1L3pH1Hk/0.jpg)](https://www.youtube.com/watch?v=cFW1L3pH1Hk)
+
+[![Alt text](https://img.youtube.com/vi/cFW1L3pH1Hk/0.jpg)](https://www.youtube.com/watch?v=cFW1L3pH1Hk
 
 
 <h4>Weights and Biases</h4>
