@@ -35,7 +35,7 @@ Neural Network with 2 hidden layers taking input as handwritten dataset(15K*64) 
    
 </ul>
 <h4>Video Explanantion</h4>
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/cFW1L3pH1Hk/0.jpg)](http://www.youtube.com/watch?v=cFW1L3pH1Hk "Neural network Handwritten Digits Classification using TensorFlow")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cFW1L3pH1Hk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <h4>Weights and Biases</h4>
 <img width=500 height=500 src="Images/histogram.png"/>
