@@ -18,7 +18,7 @@ output (n_classes): 100
 
 
 
-Neural Network with 2 hidden layers taking input as handwritten dataset(15K*64) and mapping it to 10 classes
+Neural Network with 2 hidden layers taking input as handwritten dataset(1347 images each with 64D gray scale values) and mapping it to 10 classes (0-9)
 <ul>
   <li>Loss Function : Cross Entropy</li>
   <li>Optimizer of Loss Function : Adam Optimizer</li>
