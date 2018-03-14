@@ -40,7 +40,7 @@ Neural Network with 2 hidden layers taking input as handwritten dataset(15K*64) 
 
  <h4 href="https://www.youtube.com/watch?v=cFW1L3pH1Hk" >Video Explanantion</h4>
 
-[![Alt text](https://play.google.com/store/apps/details?id=com.google.android.youtube)](https://www.youtube.com/watch?v=cFW1L3pH1Hk)
+[![Alt text](http://globalclinic.su/wp-content/uploads/2018/02/youtube.png)](https://www.youtube.com/watch?v=cFW1L3pH1Hk)
 
 
 <h4>Neural Network</h4>
