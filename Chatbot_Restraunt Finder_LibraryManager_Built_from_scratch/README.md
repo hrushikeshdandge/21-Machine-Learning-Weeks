@@ -4,7 +4,7 @@ Simple Chatbot from library management and Restraunt Finding
 built from scratch using Python.
 
 
-<h1>How To execute</h1>
+<h2>How To execute</h2>
  
  Install dependencies
  
@@ -12,7 +12,7 @@ built from scratch using Python.
 
 
 
-<h1>How it works...</h1>:
+<h2>How it works</h2>
 
 Chatbot is built by taking below items as core components
 
@@ -23,7 +23,7 @@ Entities (Objects/Actors Ex: Restraunt Names,..etc)
 Actions (Some action on Database Ex: Booking Restraunt)
 
 --------------------------------------------------------
-
+<h2>Dataset Info</h2>
 
 Dataset Used: CSV files
 
@@ -34,16 +34,13 @@ Restaurant (Restaurantlist.csv)
 --------------------------------------------------------
 
 Number of intents
+Library (200+ ) Restaurant (150+)
 
-*Library (200+ )
-*Restaurant (150+)
 Both DBs have more than 100 entries each.
-
---------------------------------------------------------
 
 Number of entities are more than 3 for each problem.
 
-<h1>Problem Domain: Library</h1>
+<h2>Problem Domain: Library</h2>
 --------------------------------------------------------
 
 	The system takes the Name, Author, Subject (Genre) of the book and Registration number as inputs from the user (like userid).
@@ -56,15 +53,18 @@ Number of entities are more than 3 for each problem.
 
 --------------------------------------------------------
 
-<h1>Problem Domain: Restaurant</h1>
+<h2>Problem Domain: Restaurant</h2>
 --------------------------------------------------------
 	
 	The system takes the Location (North,South,East,West), Cuisine(Chinese….etc), 
+	
 	CostType(Cheap,Medium, Expensive,….etc) and suggests the restaurants names to user. 
+	
 	It shows multiple restraints if it has multiple matches
 
 
 --------------------------------------------------------
+
 Additional Info:
 
 	Regular expressions  used to correct typos.
