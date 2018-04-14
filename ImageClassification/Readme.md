@@ -1,6 +1,8 @@
 Image Classification using CNN
 
 CNN Structure
+
+
 <img src="structure.jpg" height=300 width=900/>
 
 _________________________________________________________________
@@ -16,11 +18,12 @@ max_pooling2d_8 (MaxPooling2 (None, 5, 5, 64)          0
 _________________________________________________________________
 flatten_4 (Flatten)          (None, 1600)              0         
 _________________________________________________________________
-dense_7 (Dense)              (None, 1000)              1601000   
+dense_7 (Dense)              (None, 1000)              1601000
 _________________________________________________________________
 dense_8 (Dense)              (None,  100)              100100
 
 =================================================================
+
 Total params: 1,754,796
 Trainable params: 1,754,796
 Non-trainable params: 0
@@ -28,7 +31,7 @@ _________________________________________________________________
 Train on 50000 samples, validate on 10000 samples
 
 ------------------------------------------------------------------
-<img src="accuracy.png width=200, height=200/>
+<img src="accuracy.png" width=200, height=200/>
 
 Dataset Details
 Cifar100
