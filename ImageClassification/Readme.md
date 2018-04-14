@@ -36,7 +36,7 @@ Train on 50000 samples, validate on 10000 samples
 Dataset Details
 Cifar100
 <ul>
-Training Samples :60,000
-Classes :10+
-Validation samples:10000
+  <li>Training Samples :60,000</li>
+  <li>Classes :10+</li>
+  <li>Validation samples:10000</li>
 </ul>
