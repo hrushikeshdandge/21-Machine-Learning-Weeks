@@ -31,7 +31,7 @@ _________________________________________________________________
 Train on 50000 samples, validate on 10000 samples
 
 ------------------------------------------------------------------
-<img src="accuracy.png" width=200, height=200/>
+<img src="accuracy.png" width=400, height=400/>
 
 Dataset Details
 Cifar100
