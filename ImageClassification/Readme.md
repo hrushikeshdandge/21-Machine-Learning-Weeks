@@ -1,7 +1,7 @@
 Image Classification using CNN
 
 CNN Structure
-<img src="images/structure.png" height=300 width=900/>
+<img src="structure.jpg" height=300 width=900/>
 
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
