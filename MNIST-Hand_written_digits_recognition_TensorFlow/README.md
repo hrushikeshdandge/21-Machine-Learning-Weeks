@@ -44,7 +44,7 @@ Neural Network with 2 hidden layers taking input as handwritten dataset(1347 ima
 
 
 <h4>Neural Network</h4>
-<img src ="https://github.com/saitejdandge/21-Machine-Learning-Weeks/blob/master/MNIST-Hand_written_digits_recognition/Images/thumbnail.png"/>
+<img src ="https://github.com/saitejdandge/21-Machine-Learning-Weeks/blob/master/MNIST-Hand_written_digits_recognition_TensorFlow/Images/thumbnail.png"/>
 
 
 
